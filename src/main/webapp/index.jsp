@@ -5,7 +5,7 @@
 <title>Calculator</title>
 </head>
 <body>
-<h1 style="text_align=center">Calculator by gudimetla srinivas kumar</h1>
+<h1 style="text_align=center">Calculator by gudimetla sai akhilr</h1>
       <form action="firstHomePage" method="get">
 <label>first number:</label>
 <input type="text" name="n1" />
